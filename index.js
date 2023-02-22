@@ -5,6 +5,23 @@ const generateMarkdown = require("./utils/generateMarkdown");
 
 // array of questions for user
 const questions = [
+    {
+        type: 'input',
+        name: 'description',
+        message: 'Describe your project in a few sentences.',
+      },
+      {
+        type: 'checkbox',
+        message: 'What languages do you know?',
+        name: 'stack',
+        choices: ['HTML', 'CSS', 'JavaScript', 'MySQL'],
+      },
+      {
+        type: 'list',
+        message: 'What is your preferred method of communication?',
+        name: 'contact',
+        choices: ['email', 'phone', 'telekinesis'],
+      },
 
 ];
 
