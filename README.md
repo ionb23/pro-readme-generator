@@ -1,4 +1,4 @@
-# 1
+# Professional README Generator
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -71,7 +71,7 @@ There are many ways in which you can participate in this project, for example:
 
 ## Tests
 ---
-s
+You can run tests on this application by forking it and testing it in your own environment.
 
 <br>
 
@@ -79,4 +79,4 @@ s
 ---
 If you have any questions about this project, please reach out to me at ion.borziac@gmail.com.
 
-You can find my profile with all my other projects within my [GitHub profile](https://github.com/ionb23/).
+You can find my profile with all my other projects in my [GitHub profile](https://github.com/ionb23/).
