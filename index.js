@@ -64,7 +64,7 @@ function writeToFile(fileName, data) {
     // const filename = `${data.name.split(' ').join('-')}.md`;
     // fs.writeFile(filename, JSON.stringify(data, null, '\t'), (err) =>
     fs.writeFile(fileName, data, (error) =>
-        error ? console.log(error) : console.log('Success!')
+        error ? console.log(error) : console.log("You have successfully generated a new README file with the given information! Check the main folder for the generated-README.md file.")
     );
 }
 

@@ -75,6 +75,14 @@ You can run tests on this application by forking it and testing it in your own e
 
 <br>
 
+## Application Demo
+---
+The walkthrough video below demonstrates the functionality of the application:
+
+[Click to open video.](https://drive.google.com/file/d/1efZXAyov_b_hGGX7r2BRzlexIcS9hIqz/view?usp=sharing).
+
+<br>
+
 ## Questions
 ---
 If you have any questions about this project, please reach out to me at ion.borziac@gmail.com.
